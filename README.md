@@ -1,1 +1,1 @@
-#Tugas Studi Independen Zenius Accelerated Machine Learning Program
+Tugas Studi Independen Zenius Accelerated Machine Learning Program
